@@ -4,7 +4,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4ac3163edb',extremes,Snow&Ice,#d60d2b,wmo,led slovenija osrednja,2026-05-01T05:54:00+00:00,Slovenia,0.5418080671661671,1,1,sl,WCE,Europe
 'a8ce25bc66',extremes,Snow&Ice,#d60d2b,wmo,mraz slovenija severozahod,2026-04-23T05:16:00+00:00,Slovenia,0.4989679673554575,1,1,sl,WCE,Europe
 'a5c4bf54b7',extremes,Storm,#b3b2b1,wmo,storm surge slovenija severovzhod,2026-05-05T05:29:00+00:00,Slovenia,0.495440593493325,1,1,sl,WCE,Europe
-'b457c4ae91',extremes,Storm,#b3b2b1,wmo,storm surge slovenija severozahod,2026-05-09T05:36:00+00:00,Slovenia,0.49222437948804526,1,1,sl,WCE,Europe
+'b457c4ae91',extremes,Storm,#b3b2b1,wmo,storm surge slovenija severozahod,2026-05-09T05:36:00+00:00,Slovenia,0.4922243794880452,1,1,sl,WCE,Europe
 '2cd0269eff',extremes,Thunderstorm,#53785a,wmo,nevihta slovenija jugovzhod,2026-05-07T05:46:00+00:00,Slovenia,0.489692444625866,1,1,sl,WCE,Europe
 '0f998d8883',extremes,Snow&Ice,#d60d2b,wmo,sneg slovenija osrednja,2026-04-24T05:22:00+00:00,Slovenia,0.4866810482352268,1,1,sl,WCE,Europe
 '9b897d5a77',extremes,Storm,#b3b2b1,wmo,storm surge slovenija osrednja,2026-04-28T05:45:00+00:00,Slovenia,0.4816566990579016,1,1,sl,WCE,Europe
@@ -27,7 +27,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3efa5a5e06',extremes,Storm,#b3b2b1,wmo,nevihtni val waidhofen an der ybbs stadt,2026-05-05T05:29:00+00:00,Austria,0.4469280409362407,0,1,sl,WCE,Europe
 '6e98897902',extremes,Snow&Ice,#d60d2b,wmo,sneg slovenija jugovzhod,2026-04-30T05:46:00+00:00,Slovenia,0.4407522295287429,2,1,sl,WCE,Europe
 '6d79189096',extremes,Thunderstorm,#53785a,wmo,toča slovenija severozahod,2026-05-05T05:29:00+00:00,Slovenia,0.4403805459357823,1,1,sl,WCE,Europe
-'9f4b84ea43',extremes,Drought,#edc291,edo,pomanjkanje dežja slovenija,2026-05-04T05:50:00+00:00,Slovenia,0.43265283466289267,1,1,sl,WCE,Europe
+'9f4b84ea43',extremes,Drought,#edc291,edo,pomanjkanje dežja slovenija,2026-05-04T05:50:00+00:00,Slovenia,0.4326528346628926,1,1,sl,WCE,Europe
 'e8ce2a44cb',extremes,Drought,#edc291,edo,suhost avstrija,2026-05-07T05:46:00+00:00,Austria,0.4313940530078667,0,1,sl,WCE,Europe
 '4e9101e015',extremes,Storm,#b3b2b1,wmo,nevihtni val wiener neustadt land,2026-05-05T05:29:00+00:00,Austria,0.427165995606608,0,1,sl,WCE,Europe
 '9c03592a06',extremes,Storm,#b3b2b1,wmo,nevihta mistelbach,2026-05-05T05:29:00+00:00,Austria,0.4260167020624998,0,1,sl,WCE,Europe
@@ -37,13 +37,23 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '010f6e1809',extremes,Snow&Ice,#d60d2b,wmo,ledena slovenija,2026-04-24T05:22:00+00:00,Slovenia,0.4220633218071083,3,1,sl,WCE,Europe
 '7a21954729',extremes,Thunderstorm,#53785a,wmo,nevihta steyr stadt,2026-04-19T05:16:00+00:00,Austria,0.4200899577078688,1,1,sl,WCE,Europe
 '4412ad1e49',extremes,Storm,#b3b2b1,wmo,nevihtni val amstetten,2026-05-05T05:29:00+00:00,Austria,0.4190511497099147,0,1,sl,WCE,Europe
+'c5de67be68',extremes,Storm,#b3b2b1,wmo,nevihta hollabrunn,2026-05-05T05:29:00+00:00,Austria,0.41891012605566824,0,1,sl,WCE,Europe
 'fa4012d47e',extremes,Thunderstorm,#53785a,wmo,nevihta oberpullendorf,2026-04-19T05:16:00+00:00,Austria,0.4176543119915785,1,1,sl,WCE,Europe
+'97a6f380ee',extremes,Storm,#b3b2b1,wmo,nevihta krems an der donau stadt,2026-05-05T05:29:00+00:00,Austria,0.4171453933579841,0,1,sl,WCE,Europe
+'7a020e86c6',extremes,Storm,#b3b2b1,wmo,nevihtni val wien alsergrund,2026-05-05T05:29:00+00:00,Austria,0.41651069018660614,0,1,sl,WCE,Europe
 'c657d07261',extremes,Thunderstorm,#53785a,wmo,toča salzburg stadt,2026-04-19T05:16:00+00:00,Austria,0.4142636154961269,1,1,sl,WCE,Europe
 '10e4d9ffb7',extremes,Storm,#b3b2b1,wmo,storm surge slovenija,2026-05-05T05:29:00+00:00,Slovenia,0.4138068947417644,3,1,sl,WCE,Europe
-'18b78f45b4',extremes,Thunderstorm,#53785a,wmo,nevihta feldkirchen,2026-04-19T05:16:00+00:00,Austria,0.41120188448085776,1,1,sl,WCE,Europe
+'8ced7275a5',extremes,Storm,#b3b2b1,wmo,nevihtni val krems dežela,2026-05-05T05:29:00+00:00,Austria,0.41329337511230113,0,1,sl,WCE,Europe
+'3bfe7304ec',extremes,Storm,#b3b2b1,wmo,nevihta oberwart,2026-05-05T05:29:00+00:00,Austria,0.4131777917652227,0,1,sl,WCE,Europe
+'18b78f45b4',extremes,Thunderstorm,#53785a,wmo,nevihta feldkirchen,2026-04-19T05:16:00+00:00,Austria,0.4112018844808577,1,1,sl,WCE,Europe
+'f90601fa23',extremes,Volcano,#b83202,random,izbruh vulkana,2026-04-27T05:39:00+00:00,,0.4100075473236523,0,1,sl,,
 '9acb4a7b02',extremes,Thunderstorm,#53785a,wmo,nevihta wien landstraße,2026-04-19T05:16:00+00:00,Austria,0.4099103968154149,1,1,sl,WCE,Europe
+'78989af98d',extremes,Storm,#b3b2b1,wmo,nevihtni val eisenstadt stadt,2026-05-05T05:29:00+00:00,Austria,0.409285778702051,0,1,sl,WCE,Europe
 '9cbfa4e8fb',extremes,Snow&Ice,#d60d2b,wmo,led slovenija severozahod,2026-04-30T05:46:00+00:00,Slovenia,0.4091756951637625,2,1,sl,WCE,Europe
+'a9b734fc46',extremes,Storm,#b3b2b1,wmo,nevihtni val wien rudolfsheim fünfhaus,2026-05-05T05:29:00+00:00,Austria,0.4080357056672061,0,1,sl,WCE,Europe
+'efd4a65dcc',extremes,Storm,#b3b2b1,wmo,nevihta wien leopoldstadt,2026-05-05T05:29:00+00:00,Austria,0.40741376148861885,0,1,sl,WCE,Europe
 '618fa4963e',extremes,Storm,#b3b2b1,wmo,nevihta avstrija,2026-04-19T05:16:00+00:00,Austria,0.4073694592454575,1,1,sl,WCE,Europe
+'8ee80c64a2',extremes,Storm,#b3b2b1,wmo,nevihta wien landstraße,2026-05-05T05:29:00+00:00,Austria,0.4071018657574349,0,1,sl,WCE,Europe
 '7819840fbc',extremes,Storm,#b3b2b1,wmo,nevihta innsbruška dežela,2026-04-19T05:16:00+00:00,Austria,0.4051628866884754,1,1,sl,WCE,Europe
 '4b3ac84dec',extremes,Storm,#b3b2b1,wmo,storm surge slovenija morje,2026-05-06T05:43:00+00:00,Slovenia,0.4006822009597744,2,1,sl,WCE,Europe
 'e67157887e',extremes,Drought,#edc291,edo,suhost slovenija,2026-04-23T05:17:00+00:00,Slovenia,0.3912789745646965,1,1,sl,WCE,Europe
