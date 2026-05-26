@@ -707,7 +707,7 @@ def inqGeonamesApi(results=[]):
   response = requests.get(url)
   response.encoding = response.apparent_encoding
   if(response.text):
-    print(response.text)) 
+    print(response.text)
     results.append(":white_check_mark: Geonames respone fine") 
     jsonData = json.loads(response.text)
     if('message' in jsonData):
