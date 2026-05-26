@@ -41,7 +41,7 @@ def inqRapidFreeNews(results=[]):
         }
     response = requests.request("GET", url, headers=headers, params=querystring)
     response.encoding = response.apparent_encoding
-    # print(response.text)
+    print(response.text)
     print(response.status_code)     #200
     #504 : The request to the API has timed out
     if((response.text) and (not response.status_code in [204, 500, 504])):
@@ -88,7 +88,7 @@ def inqRapidDeeplTranslator4(results=[]):
     response = requests.post(url, headers=headers, json=payload)
     #response = requests.request('POST', url, headers=headers, json=payload)
     response.encoding = response.apparent_encoding
-    #print(response.text)
+    print(response.text)
     print(['Deepl-Translator-4', response.status_code])     #200
     #504 : The request to the API has timed out
     if((response.text) and (not response.status_code in [204, 500, 504])):
@@ -136,7 +136,7 @@ def inqRapidMultiTraductionTranslate(results=[]):
     response = requests.post(url, headers=headers, json=payload)
     #response = requests.request('POST', url, headers=headers, json=payload)
     response.encoding = response.apparent_encoding
-    #print(response.text)
+    print(response.text)
     print(['Multi-Traduction-Translate', response.status_code])     #200
     #504 : The request to the API has timed out
     if((response.text) and (not response.status_code in [204, 500, 504])):
@@ -232,7 +232,7 @@ def inqRapidTextTranslator2(results=[]):
     response = requests.post(url, headers=headers, data=payload)
     #response = requests.request('POST', url, headers=headers, json=payload)
     response.encoding = response.apparent_encoding
-    #print(response.text)
+    print(response.text)
     print(['Text-Translator-2', response.status_code])     #200
     #504 : The request to the API has timed out
     if((response.text) and (not response.status_code in [204, 500, 504])):
@@ -334,7 +334,7 @@ def inqRapidDeepTranslate1(results=[]):
     response = requests.post(url, headers=headers, json=payload)
     #response = requests.request('POST', url, headers=headers, json=payload)
     response.encoding = response.apparent_encoding
-    #print(response.text)
+    print(response.text)
     print(['Deep-Translate-1', response.status_code])     #200
     #504 : The request to the API has timed out
     if((response.text) and (not response.status_code in [204, 500, 504])):
@@ -381,7 +381,7 @@ def inqRapidNewsApi14(results=[]):
         }
     response = requests.request("GET", url, headers=headers, params=querystring)
     response.encoding = response.apparent_encoding
-    # print(response.text)
+    print(response.text)
     print(response.status_code)     #200
     #504 : The request to the API has timed out
     if((response.text) and (not response.status_code in [204, 500, 504])):
@@ -426,7 +426,7 @@ def inqRapidGoogleNews22(results=[]):
         }
     response = requests.request("GET", url, headers=headers, params=querystring)
     response.encoding = response.apparent_encoding
-    # print(response.text)
+    print(response.text)
     print(response.status_code)     #400
     #504 : The request to the API has timed out
     if((response.text) and (not response.status_code in [204, 500, 504])):
@@ -471,7 +471,7 @@ def inqRapidGoogleNews25(results=[]):
         }
     response = requests.request("GET", url, headers=headers, params=querystring)
     response.encoding = response.apparent_encoding
-    # print(response.text)
+    print(response.text)
     print(response.status_code)     #200
     #504 : The request to the API has timed out
     if((response.text) and (not response.status_code in [204, 500, 504])):
@@ -516,7 +516,7 @@ def inqRapidRealTimeNews(results=[]):
         }
     response = requests.request("GET", url, headers=headers, params=querystring)
     response.encoding = response.apparent_encoding
-    # print(response.text)
+    print(response.text)
     print(response.status_code)     #200
     #504 : The request to the API has timed out
     if((response.text) and (not response.status_code in [204, 500, 504])):
@@ -707,6 +707,7 @@ def inqGeonamesApi(results=[]):
   response = requests.get(url)
   response.encoding = response.apparent_encoding
   if(response.text):
+    print(response.text)) 
     results.append(":white_check_mark: Geonames respone fine") 
     jsonData = json.loads(response.text)
     if('message' in jsonData):
