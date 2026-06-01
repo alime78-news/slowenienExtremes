@@ -1,7 +1,17 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '2efc827093',extremes,Flood,#030ba1,wmo,hudourniška poplava slovenija,2026-05-12T05:52:00+00:00,Slovenia,0.4357155515416475,3,1,sl,WCE,Europe
-'3f85507ee1',extremes,Flood,#030ba1,wmo,poplava slovenije,2026-05-12T05:52:00+00:00,Slovenia,0.43358378136736503,3,1,sl,WCE,Europe
-'c6b47fe01a',extremes,Storm,#b3b2b1,wmo,storm surge slovenija jugozahod,2026-05-31T06:40:00+00:00,Slovenia,0.36564344343519734,3,1,sl,WCE,Europe
+'3f85507ee1',extremes,Flood,#030ba1,wmo,poplava slovenije,2026-05-12T05:52:00+00:00,Slovenia,0.433583781367365,3,1,sl,WCE,Europe
+'474ead12ad',extremes,Thunderstorm,#53785a,wmo,hudo vreme gänserndorf,2026-05-30T06:01:00+00:00,Austria,0.4236921899795806,0,1,sl,WCE,Europe
+'2283c7084d',extremes,Storm,#b3b2b1,wmo,nevihta krems dežela,2026-05-30T06:01:00+00:00,Austria,0.42316891926482864,0,1,sl,WCE,Europe
+'938ab50b92',extremes,Storm,#b3b2b1,wmo,nevihtni val wien meidling,2026-05-30T06:01:00+00:00,Austria,0.42295330120779295,0,1,sl,WCE,Europe
+'6bac11f33d',extremes,Storm,#b3b2b1,wmo,storm surge wien hernals,2026-05-30T06:01:00+00:00,Austria,0.42258915212771997,0,1,sl,WCE,Europe
+'b66b787572',extremes,Storm,#b3b2b1,wmo,nevihtni val villach stadt,2026-05-31T06:40:00+00:00,Austria,0.42137662489934685,0,1,sl,WCE,Europe
+'7a65d80ba4',extremes,Storm,#b3b2b1,wmo,nevihtni val wien landstraße,2026-05-30T06:01:00+00:00,Austria,0.42064479236899516,0,1,sl,WCE,Europe
+'adb5a636f0',extremes,Storm,#b3b2b1,wmo,nevihtni val wien josefstadt,2026-05-30T06:01:00+00:00,Austria,0.41765340384379024,0,1,sl,WCE,Europe
+'283b154c38',extremes,Wet Spell,#d60d2b,random,mokri urok,2026-05-31T06:40:00+00:00,,0.39922267128205285,0,1,sl,,
+'560b05d603',extremes,Heat Wave,#c40202,random,vročinski val,2026-05-21T06:34:00+00:00,,0.38932101245015593,0,1,sl,,
+'6b7e025bb3',extremes,Storm,#b3b2b1,random,vihar,2026-05-29T06:38:00+00:00,,0.3727328429223609,0,1,sl,,
+'c6b47fe01a',extremes,Storm,#b3b2b1,wmo,storm surge slovenija jugozahod,2026-05-31T06:40:00+00:00,Slovenia,0.3656434434351973,3,1,sl,WCE,Europe
 '2480ec8b08',extremes,Storm,#b3b2b1,wmo,nevihta zwettl,2026-05-30T06:01:00+00:00,Austria,0.3622841272135378,1,1,sl,WCE,Europe
 '4a4ee6b9d7',extremes,Storm,#b3b2b1,wmo,nevihtni val wien währing,2026-05-30T06:01:00+00:00,Austria,0.3603148163765792,1,1,sl,WCE,Europe
 '643ecbd19b',extremes,Thunderstorm,#53785a,wmo,hudo vreme slovenija severozahod,2026-05-30T06:01:00+00:00,Slovenia,0.3565434784853618,4,1,sl,WCE,Europe
@@ -23,7 +33,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '1de161b756',extremes,Heat Wave,#c40202,wmo,vročinski val hartberg fürstenfeld,2026-05-24T06:22:00+00:00,Austria,0.3145042660187401,3,1,sl,WCE,Europe
 'a37d69084b',extremes,Heat Wave,#c40202,wmo,vročinski val feldkirch,2026-05-24T06:22:00+00:00,Austria,0.3142547046801289,3,1,sl,WCE,Europe
 'de37eb7f33',extremes,Heat Wave,#c40202,wmo,vročinski val perg,2026-05-24T06:22:00+00:00,Austria,0.3142373791546918,3,1,sl,WCE,Europe
-'4d5705c676',extremes,Drought,#edc291,edo,pomanjkanje dežja avstrija,2026-05-20T06:33:00+00:00,Austria,0.31418654969442616,3,1,sl,WCE,Europe
+'4d5705c676',extremes,Drought,#edc291,edo,pomanjkanje dežja avstrija,2026-05-20T06:33:00+00:00,Austria,0.3141865496944261,3,1,sl,WCE,Europe
 '7ca8cec803',extremes,Storm,#b3b2b1,wmo,nevihta rohrbach,2026-05-30T06:01:00+00:00,Austria,0.3134371119723338,2,1,sl,WCE,Europe
 'ea488d3fcb',extremes,Storm,#b3b2b1,wmo,nevihtni val neunkirchen,2026-05-30T06:01:00+00:00,Austria,0.3133129862676867,2,1,sl,WCE,Europe
 '17b0136195',extremes,Heat Wave,#c40202,wmo,vročinski val völkermarkt,2026-05-24T06:22:00+00:00,Austria,0.3133026485791651,3,1,sl,WCE,Europe
@@ -181,7 +191,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '538eadceb4',extremes,Heat Wave,#c40202,random,mila zima,2026-05-12T05:52:00+00:00,,0.2418759024335962,3,1,sl,,
 'a76c313df9',extremes,Heat Wave,#c40202,wmo,heat wave bregenz,2026-05-25T06:53:00+00:00,Austria,0.2407241205224307,3,1,sl,WCE,Europe
 '0568f120c7',extremes,Heat Wave,#c40202,wmo,vročinski val innsbruck stadt,2026-05-24T06:22:00+00:00,Austria,0.2405788753958406,3,1,sl,WCE,Europe
-'fa9e452d04',extremes,Precipitation,#d60d2b,random,nevihta,2026-05-25T06:52:00+00:00,,0.24025344420117373,3,1,sl,,
+'fa9e452d04',extremes,Precipitation,#d60d2b,random,nevihta,2026-05-25T06:52:00+00:00,,0.2402534442011737,3,1,sl,,
 '56374e5b62',extremes,Heat Wave,#c40202,wmo,vročinski val güssing,2026-05-25T06:53:00+00:00,Austria,0.2397844273265562,3,1,sl,WCE,Europe
 '994fe03563',extremes,Snow Avalanche,#deddd5,wmo,plaz slovenija,2026-05-17T06:01:00+00:00,Slovenia,0.2390059737307764,7,1,sl,WCE,Europe
 '54927bfe65',extremes,Flood,#030ba1,random,obalna poplava,2026-05-13T06:02:00+00:00,,0.2384163607653217,3,1,sl,,
@@ -201,7 +211,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'ec9681f6d8',extremes,Flood,#030ba1,aidr,poplava tasmanija junij julij 2016,2026-05-12T05:53:00+00:00,Australia,0.2279390446784459,2,1,sl,SAU,Oceania
 '94f5333482',extremes,Precipitation,#d60d2b,wmo,padavine slovenija osrednje,2026-05-12T05:52:00+00:00,Slovenia,0.2278848798747585,5,1,sl,WCE,Europe
 'a7dc4db3f7',extremes,Heat Wave,#c40202,wmo,vročinski val imst,2026-05-24T06:22:00+00:00,Austria,0.2278506040628038,5,1,sl,WCE,Europe
-'3b300588b4',extremes,Heat Wave,#c40202,wmo,toplotni val wien hietzing,2026-05-26T06:31:00+00:00,Austria,0.22760816526587058,3,1,sl,WCE,Europe
+'3b300588b4',extremes,Heat Wave,#c40202,wmo,toplotni val wien hietzing,2026-05-26T06:31:00+00:00,Austria,0.2276081652658705,3,1,sl,WCE,Europe
 '538ad91bbf',extremes,Heat Wave,#c40202,wmo,vročinski val voitsberg,2026-05-24T06:22:00+00:00,Austria,0.2271931716673065,5,1,sl,WCE,Europe
 '3e2894fd0c',extremes,Iceberg,#d60d2b,random,antarktični morski led,2026-05-04T05:49:00+00:00,,0.2271638859405576,3,1,sl,,
 '4d446959e2',extremes,Drought,#edc291,edo,suša estonija,2026-05-04T05:50:00+00:00,Estonia,0.2251067642852623,3,1,sl,NEU,Europe
@@ -251,7 +261,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'da1ae5191e',extremes,Storm,#b3b2b1,random,nevihtni val,2026-05-05T05:28:00+00:00,,0.204267116885483,3,1,sl,,
 '5e29cd96b0',extremes,Precipitation,#d60d2b,wmo,nalivi italija,2026-05-04T05:50:00+00:00,Italy,0.204027002278942,3,1,sl,MED,Europe
 'eecd031bb8',extremes,Thunderstorm,#53785a,wmo,toča murtal,2026-05-27T06:46:00+00:00,Austria,0.2035779236975173,5,1,sl,WCE,Europe
-'b9a82bfdaa',extremes,Storm,#b3b2b1,wmo,nevihta Veneto,2026-05-06T05:43:00+00:00,Italy,0.20342324151570162,3,1,sl,MED,Europe
+'b9a82bfdaa',extremes,Storm,#b3b2b1,wmo,nevihta Veneto,2026-05-06T05:43:00+00:00,Italy,0.2034232415157016,3,1,sl,MED,Europe
 '0b8f5a0e51',extremes,Iceberg,#d60d2b,random,ledena gora Antarktika,2026-05-14T06:02:00+00:00,,0.2032878529964528,3,1,sl,,
 '30b7b41a32',extremes,Storm,#b3b2b1,wmo,storm surge marche,2026-05-05T05:29:00+00:00,Italy,0.2021338100009105,3,1,sl,MED,Europe
 '6911fa0b51',extremes,Snow Avalanche,#deddd5,wmo,snežni plaz slovenija severozahod,2026-05-16T05:40:00+00:00,Slovenia,0.2004864080968474,8,1,sl,WCE,Europe
@@ -294,13 +304,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '3894a694d1',extremes,Flood,#030ba1,aidr,hudourniška poplava v Avstraliji,2026-05-08T05:16:00+00:00,Australia,0.193054885256464,3,1,sl,SAU,Oceania
 '80fa381938',extremes,Thunderstorm,#53785a,wmo,nevihta Furlanija Julijska krajina,2026-05-07T05:46:00+00:00,Italy,0.1929579234123899,3,1,sl,MED,Europe
 'f8a513bf41',extremes,Tropical Cyclone,#4f4f4f,random,medicane,2026-05-18T06:38:00+00:00,,0.192875983398516,3,1,sl,,
-'b8eb47bf7f',extremes,Heat Wave,#c40202,random,toplotna kupola,2026-05-16T05:40:00+00:00,,0.19266056509923654,4,1,sl,,
+'b8eb47bf7f',extremes,Heat Wave,#c40202,random,toplotna kupola,2026-05-16T05:40:00+00:00,,0.1926605650992365,4,1,sl,,
 '42f9f7020d',extremes,Heat Wave,#c40202,acwe,toplo obdobje novi južni wales,2026-05-06T05:43:00+00:00,Australia,0.1925254873076209,3,1,sl,EAU,Oceania
 'c9fc484d05',extremes,Storm,#b3b2b1,wmo,storm surge umbrija,2026-05-05T05:29:00+00:00,Italy,0.1923751718078295,3,1,sl,MED,Europe
 '3e4b341619',extremes,Storm,#b3b2b1,random,nevihta,2026-05-20T06:32:00+00:00,,0.1919622064642716,3,1,sl,,
 'b862f62894',extremes,Storm,#b3b2b1,wmo,nevihta basilicata,2026-05-10T05:51:00+00:00,Italy,0.1918777529496069,3,1,sl,MED,Europe
 'ec51ecb5d3',extremes,Flood,#030ba1,acwe,hudourniška poplava tasmanija,2026-05-05T05:29:00+00:00,Australia,0.1918375453280345,3,1,sl,SAU,Oceania
-'acd0e1409b',extremes,Flood,#030ba1,acwe,poplavlja novi južni Wales,2026-05-05T05:29:00+00:00,Australia,0.19147265067076516,3,1,sl,EAU,Oceania
+'acd0e1409b',extremes,Flood,#030ba1,acwe,poplavlja novi južni Wales,2026-05-05T05:29:00+00:00,Australia,0.1914726506707651,3,1,sl,EAU,Oceania
 'f6774fb5b2',extremes,Drought,#edc291,acwe,pomanjkanje dežja victoria,2026-05-04T05:50:00+00:00,Australia,0.1912967174807316,3,1,sl,SAU,Oceania
 '20741ce7eb',extremes,Tsunami,#690191,random,cunami,2026-05-07T05:46:00+00:00,,0.1911695297114954,3,1,sl,,
 '92035e2c20',extremes,Drought,#edc291,edo,sušno obdobje na Madagaskarju,2026-05-07T05:46:00+00:00,Madagascar,0.1910613821888566,3,1,sl,MDG,Africa
@@ -310,7 +320,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '7b5b3b8ad8',extremes,Storm,#b3b2b1,wmo,nevihta trentino alto adige,2026-05-17T06:01:00+00:00,Italy,0.1908205195371586,3,1,sl,MED,Europe
 '8a1a9038c3',extremes,Storm,#b3b2b1,random,snežni metež,2026-05-16T05:40:00+00:00,,0.1904118502462691,3,1,sl,,
 '628c73fc75',extremes,Drought,#edc291,edo,suša Poljska,2026-05-05T05:29:00+00:00,Poland,0.1901182620001209,3,1,sl,WCE,Europe
-'731c9c6599',extremes,Storm,#b3b2b1,wmo,nevihta basilicata,2026-05-11T06:14:00+00:00,Italy,0.19011526587021638,3,1,sl,MED,Europe
+'731c9c6599',extremes,Storm,#b3b2b1,wmo,nevihta basilicata,2026-05-11T06:14:00+00:00,Italy,0.1901152658702163,3,1,sl,MED,Europe
 '3296e9a239',extremes,Flood,#030ba1,aidr,hudourniški dež avstralija,2026-05-17T06:01:00+00:00,Australia,0.190068341265494,3,1,sl,SAU,Oceania
 'b77d2e68e3',extremes,Storm,#b3b2b1,wmo,nevihta molise,2026-05-16T05:40:00+00:00,Italy,0.189724482840457,3,1,sl,MED,Europe
 '969dbf1866',extremes,Precipitation,#d60d2b,wmo,nalivi južna afrika,2026-05-09T05:36:00+00:00,South Africa,0.1894964808361293,3,1,sl,WSAF,Africa
