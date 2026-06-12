@@ -1,23 +1,18 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'c89cd579b4',extremes,Flood,#030ba1,wmo,flashflood zgornja drava,2026-06-11T07:14:00+00:00,Slovenia,0.7090718435906297,0,1,sl,WCE,Europe
-'3be8db0328',extremes,Flood,#030ba1,wmo,poplava spodnja drava,2026-06-11T07:14:00+00:00,Slovenia,0.4391659262768616,3,1,sl,WCE,Europe
-'31e23123bb',extremes,Thunderstorm,#53785a,wmo,nevihta wien neubau,2026-06-08T07:13:00+00:00,Austria,0.43120157844152057,0,1,sl,WCE,Europe
-'2f29de263e',extremes,Precipitation,#d60d2b,wmo,dež sankt johann im pongau,2026-06-10T06:49:00+00:00,Austria,0.38971390125967303,0,1,sl,WCE,Europe
-'fc9e6dfe74',extremes,Precipitation,#d60d2b,wmo,dež celovška dežela,2026-06-10T06:49:00+00:00,Austria,0.38873168814392134,0,1,sl,WCE,Europe
-'e87fa58c84',extremes,Precipitation,#d60d2b,wmo,nalivi klagenfurt stadt,2026-06-10T06:49:00+00:00,Austria,0.38842318001421133,0,1,sl,WCE,Europe
-'f1a3bf7ff5',extremes,Precipitation,#d60d2b,wmo,padavine spittal an der drau,2026-06-10T06:49:00+00:00,Austria,0.3877693284929351,0,1,sl,WCE,Europe
-'cb3444b1b7',extremes,Precipitation,#d60d2b,wmo,nalivi voitsberg,2026-06-10T06:49:00+00:00,Austria,0.38691529638516425,0,1,sl,WCE,Europe
-'dc24eb9c61',extremes,Precipitation,#d60d2b,wmo,hudourniški dež beljak dežela,2026-06-09T06:32:00+00:00,Austria,0.38594941744725664,0,1,sl,WCE,Europe
-'ff1c2a8ede',extremes,Precipitation,#d60d2b,wmo,nalivi leoben,2026-06-10T06:49:00+00:00,Austria,0.3847726919622268,0,1,sl,WCE,Europe
-'f7145da7ba',extremes,Precipitation,#d60d2b,wmo,naliv feldkirchen,2026-06-09T06:32:00+00:00,Austria,0.38410757427036474,0,1,sl,WCE,Europe
+'c89cd579b4',extremes,Flood,#030ba1,wmo,flashflood zgornja drava,2026-06-11T07:14:00+00:00,Slovenia,0.6027110670520353,1,1,sl,WCE,Europe
 '3f85507ee1',extremes,Flood,#030ba1,wmo,poplava slovenije,2026-06-11T07:14:00+00:00,Slovenia,0.3791259094335228,4,1,sl,WCE,Europe
-'3da2bcf2b2',extremes,Precipitation,#d60d2b,wmo,naliv zell am see,2026-06-09T06:32:00+00:00,Austria,0.3336202192069544,1,1,sl,WCE,Europe
-'45500dcb47',extremes,Precipitation,#d60d2b,random,rekordna količina padavin,2026-06-10T06:49:00+00:00,,0.3313972487879402,1,1,sl,,
+'3be8db0328',extremes,Flood,#030ba1,wmo,poplava spodnja drava,2026-06-11T07:14:00+00:00,Slovenia,0.3732910373353323,4,1,sl,WCE,Europe
+'31e23123bb',extremes,Thunderstorm,#53785a,wmo,nevihta wien neubau,2026-06-08T07:13:00+00:00,Austria,0.36652134167529243,1,1,sl,WCE,Europe
+'2f29de263e',extremes,Precipitation,#d60d2b,wmo,dež sankt johann im pongau,2026-06-10T06:49:00+00:00,Austria,0.33125681607072205,1,1,sl,WCE,Europe
+'fc9e6dfe74',extremes,Precipitation,#d60d2b,wmo,dež celovška dežela,2026-06-10T06:49:00+00:00,Austria,0.33042193492233307,1,1,sl,WCE,Europe
+'e87fa58c84',extremes,Precipitation,#d60d2b,wmo,nalivi klagenfurt stadt,2026-06-10T06:49:00+00:00,Austria,0.3301597030120796,1,1,sl,WCE,Europe
+'f1a3bf7ff5',extremes,Precipitation,#d60d2b,wmo,padavine spittal an der drau,2026-06-10T06:49:00+00:00,Austria,0.32960392921899484,1,1,sl,WCE,Europe
+'cb3444b1b7',extremes,Precipitation,#d60d2b,wmo,nalivi voitsberg,2026-06-10T06:49:00+00:00,Austria,0.3288780019273896,1,1,sl,WCE,Europe
+'dc24eb9c61',extremes,Precipitation,#d60d2b,wmo,hudourniški dež beljak dežela,2026-06-09T06:32:00+00:00,Austria,0.3280570048301681,1,1,sl,WCE,Europe
+'ff1c2a8ede',extremes,Precipitation,#d60d2b,wmo,nalivi leoben,2026-06-10T06:49:00+00:00,Austria,0.32705678816789274,1,1,sl,WCE,Europe
+'f7145da7ba',extremes,Precipitation,#d60d2b,wmo,naliv feldkirchen,2026-06-09T06:32:00+00:00,Austria,0.32649143812980996,1,1,sl,WCE,Europe
 'cf79e36ea7',extremes,Thunderstorm,#53785a,wmo,toča slovenija,2026-05-19T06:33:00+00:00,Slovenia,0.3162163377204668,5,1,sl,WCE,Europe
 '9b897d5a77',extremes,Storm,#b3b2b1,wmo,storm surge slovenija osrednja,2026-06-10T06:49:00+00:00,Slovenia,0.3136293008890524,4,1,sl,WCE,Europe
-'0632a85904',extremes,Storm,#b3b2b1,wmo,nevihta eisenstadt stadt,2026-06-09T06:32:00+00:00,Austria,0.3118028372165494,2,1,sl,WCE,Europe
-'eaf058ee04',extremes,Storm,#b3b2b1,wmo,nevihta villach land,2026-06-08T07:13:00+00:00,Austria,0.3112965003919166,2,1,sl,WCE,Europe
-'72c859897b',extremes,Storm,#b3b2b1,wmo,storm surge wien favoriten,2026-06-08T07:13:00+00:00,Austria,0.3112152133841757,2,1,sl,WCE,Europe
 'ea29f15a43',extremes,Storm,#b3b2b1,wmo,nevihtni val Klagenfurt Stadt,2026-06-10T06:49:00+00:00,Austria,0.3099335400323197,2,1,sl,WCE,Europe
 'e8dc897411',extremes,Thunderstorm,#53785a,wmo,nevihta güssing,2026-06-09T06:32:00+00:00,Austria,0.3090428791675919,2,1,sl,WCE,Europe
 '5968efe764',extremes,Precipitation,#d60d2b,wmo,dež avstrija,2026-06-09T06:32:00+00:00,Austria,0.3089784878213633,2,1,sl,WCE,Europe
@@ -42,7 +37,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'fc8da727d7',extremes,Precipitation,#d60d2b,wmo,nalivi feldkirchen,2026-06-10T06:49:00+00:00,Austria,0.2843073979733646,2,1,sl,WCE,Europe
 '1b2f9b6a7c',extremes,Precipitation,#d60d2b,wmo,dež hermagor,2026-06-09T06:32:00+00:00,Austria,0.283881845158332,2,1,sl,WCE,Europe
 'e8e2c404c4',extremes,Flood,#030ba1,wmo,poplava dravinja,2026-06-10T06:49:00+00:00,Slovenia,0.2836272333531672,4,1,sl,WCE,Europe
+'3da2bcf2b2',extremes,Precipitation,#d60d2b,wmo,naliv zell am see,2026-06-09T06:32:00+00:00,Austria,0.2835771863259112,2,1,sl,WCE,Europe
 'e5ec1fefb4',extremes,Storm,#b3b2b1,wmo,nevihta slovenija osrednja,2026-06-08T07:13:00+00:00,Slovenia,0.2826429877005065,5,1,sl,WCE,Europe
+'45500dcb47',extremes,Precipitation,#d60d2b,random,rekordna količina padavin,2026-06-10T06:49:00+00:00,,0.28168766146974916,2,1,sl,,
 '1f56b7bc78',extremes,Thunderstorm,#53785a,wmo,nevihta villach stadt,2026-06-08T07:13:00+00:00,Austria,0.2736352174303946,3,1,sl,WCE,Europe
 '7a020e86c6',extremes,Storm,#b3b2b1,wmo,nevihtni val wien alsergrund,2026-06-08T07:13:00+00:00,Austria,0.2734888753484361,3,1,sl,WCE,Europe
 '576c17e8df',extremes,Heat Wave,#c40202,wmo,vročinski val hallein,2026-05-25T06:53:00+00:00,Austria,0.2710443464402753,4,1,sl,WCE,Europe
@@ -63,6 +60,9 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '4a9dee2eb3',extremes,Heat Wave,#c40202,wmo,vročinski val jennersdorf,2026-05-24T06:22:00+00:00,Austria,0.2655926887408656,4,1,sl,WCE,Europe
 'df46726351',extremes,Precipitation,#d60d2b,wmo,nalivi avstrija,2026-06-09T06:32:00+00:00,Austria,0.265343371934725,3,1,sl,WCE,Europe
 '8023f8dcd3',extremes,Storm,#b3b2b1,wmo,nevihtni val wien leopoldstadt,2026-06-08T07:13:00+00:00,Austria,0.2651542513245615,3,1,sl,WCE,Europe
+'0632a85904',extremes,Storm,#b3b2b1,wmo,nevihta eisenstadt stadt,2026-06-09T06:32:00+00:00,Austria,0.265032411634067,3,1,sl,WCE,Europe
+'eaf058ee04',extremes,Storm,#b3b2b1,wmo,nevihta villach land,2026-06-08T07:13:00+00:00,Austria,0.2646020253331291,3,1,sl,WCE,Europe
+'72c859897b',extremes,Storm,#b3b2b1,wmo,storm surge wien favoriten,2026-06-08T07:13:00+00:00,Austria,0.2645329313765493,3,1,sl,WCE,Europe
 'c6b47fe01a',extremes,Storm,#b3b2b1,wmo,storm surge slovenija jugozahod,2026-05-31T06:40:00+00:00,Slovenia,0.2641773878819299,5,1,sl,WCE,Europe
 '948c5be429',extremes,Storm,#b3b2b1,wmo,nevihta slovenija severovzhod,2026-06-04T07:06:00+00:00,Slovenia,0.2637754925126142,5,1,sl,WCE,Europe
 '6a1fee712a',extremes,Thunderstorm,#53785a,wmo,hudo vreme,2026-06-08T07:13:00+00:00,Austria,0.2636651939069827,3,1,sl,WCE,Europe
