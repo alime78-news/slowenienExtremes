@@ -1,31 +1,25 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'877d8121d6',extremes,Thunderstorm,#53785a,wmo,hudo vreme slovenija osrednje,2026-06-13T06:38:00+00:00,Slovenia,0.48575872003562764,0,1,sl,WCE,Europe
-'ee63b257d5',extremes,Tropical Cyclone,#4f4f4f,random,tropska nevihta,2026-06-13T06:38:00+00:00,,0.37824153504448704,0,1,sl,,
-'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,ledena gora arctis,2026-06-12T07:05:00+00:00,,0.36217912281581927,0,1,sl,,
-'b6cef22543',extremes,Drought,#edc291,random,omejitev vode,2026-06-08T07:13:00+00:00,,0.3576813430867815,0,1,sl,,
-'de3b36bacb',extremes,Thunderstorm,#53785a,random,hudo vreme,2026-06-12T07:05:00+00:00,,0.35564739633224296,0,1,sl,,
-'28b262a6d3',extremes,Thunderstorm,#53785a,wmo,toča wien margareten,2026-06-08T07:13:00+00:00,Austria,0.3544802615826838,0,1,sl,WCE,Europe
-'c8bad6097f',extremes,Heat Wave,#c40202,wmo,basilicata vročinski val,2026-06-09T06:32:00+00:00,Italy,0.3540320925609427,0,1,sl,MED,Europe
-'deaa4b70a0',extremes,Storm,#b3b2b1,random,peščeni vihar,2026-06-09T06:32:00+00:00,,0.35012208576924764,0,1,sl,,
-'507412aefc',extremes,Storm,#b3b2b1,wmo,nevihta italija,2026-06-02T07:08:00+00:00,Italy,0.34919029415561875,0,1,sl,MED,Europe
-'b66c3705c1',extremes,Thunderstorm,#53785a,wmo,hudo vreme bruck an der leitha,2026-06-08T07:13:00+00:00,Austria,0.34887038941889753,0,1,sl,WCE,Europe
+'877d8121d6',extremes,Thunderstorm,#53785a,wmo,hudo vreme slovenija osrednje,2026-06-13T06:38:00+00:00,Slovenia,0.41289491203028345,1,1,sl,WCE,Europe
 '3f85507ee1',extremes,Flood,#030ba1,wmo,poplava slovenije,2026-06-11T07:14:00+00:00,Slovenia,0.3222570230184944,5,1,sl,WCE,Europe
+'ee63b257d5',extremes,Tropical Cyclone,#4f4f4f,random,tropska nevihta,2026-06-13T06:38:00+00:00,,0.3215053047878139,1,1,sl,,
 '3be8db0328',extremes,Flood,#030ba1,wmo,poplava spodnja drava,2026-06-11T07:14:00+00:00,Slovenia,0.3172973817350324,5,1,sl,WCE,Europe
 'c89cd579b4',extremes,Flood,#030ba1,wmo,flashflood zgornja drava,2026-06-11T07:14:00+00:00,Slovenia,0.3146189439453315,5,1,sl,WCE,Europe
 '9b897d5a77',extremes,Storm,#b3b2b1,wmo,storm surge slovenija osrednja,2026-06-10T06:49:00+00:00,Slovenia,0.3136293008890524,4,1,sl,WCE,Europe
-'e2a645f9f9',extremes,Thunderstorm,#53785a,wmo,toča Sankt Pölten Stadt,2026-06-09T06:32:00+00:00,Austria,0.310439195234276,1,1,sl,WCE,Europe
-'e8dc897411',extremes,Thunderstorm,#53785a,wmo,nevihta güssing,2026-06-09T06:32:00+00:00,Austria,0.3090428791675919,2,1,sl,WCE,Europe
-'aedb48a75b',extremes,Thunderstorm,#53785a,wmo,hudo vreme wien rudolfsheim fünfhaus,2026-06-08T07:13:00+00:00,Austria,0.3086876574500845,2,1,sl,WCE,Europe
-'77a5052457',extremes,Storm,#b3b2b1,wmo,nevihta neusiedl am glej,2026-06-09T06:32:00+00:00,Austria,0.3082809625702868,2,1,sl,WCE,Europe
-'0b1d01b86b',extremes,Thunderstorm,#53785a,wmo,nevihta dežela Sankt Pölten,2026-06-08T07:13:00+00:00,Austria,0.3071004922029667,1,1,sl,WCE,Europe
-'538eadceb4',extremes,Heat Wave,#c40202,random,mila zima,2026-06-08T07:13:00+00:00,,0.3069971794247236,1,1,sl,,
+'c4f1f0cbf9',extremes,Iceberg,#d60d2b,random,ledena gora arctis,2026-06-12T07:05:00+00:00,,0.3078522543934463,1,1,sl,,
 'c3d0e3b068',extremes,Snow&Ice,#d60d2b,random,zmrzovanje,2026-06-11T07:14:00+00:00,,0.306338046943661,1,1,sl,,
 '7511d1851e',extremes,Thunderstorm,#53785a,wmo,nevihta wien favoriten,2026-06-09T06:32:00+00:00,Austria,0.3058878625677415,2,1,sl,WCE,Europe
 'fe93b004f0',extremes,Storm,#b3b2b1,wmo,nevihtni val wien brigittenau,2026-06-08T07:13:00+00:00,Austria,0.3058133967896895,2,1,sl,WCE,Europe
 '65d5e9ca23',extremes,Thunderstorm,#53785a,wmo,toča mistelbach,2026-06-09T06:32:00+00:00,Austria,0.3041441350489646,1,1,sl,WCE,Europe
 '32e74ad8ff',extremes,Heat Wave,#c40202,wmo,vročinski val molise,2026-06-10T06:49:00+00:00,Italy,0.3040315027655587,1,1,sl,MED,Europe
+'b6cef22543',extremes,Drought,#edc291,random,omejitev vode,2026-06-08T07:13:00+00:00,,0.30402914162376427,1,1,sl,,
 '643ecbd19b',extremes,Thunderstorm,#53785a,wmo,hudo vreme slovenija severozahod,2026-05-30T06:01:00+00:00,Slovenia,0.3030619567125575,5,1,sl,WCE,Europe
+'de3b36bacb',extremes,Thunderstorm,#53785a,random,hudo vreme,2026-06-12T07:05:00+00:00,,0.30230028688240645,1,1,sl,,
+'28b262a6d3',extremes,Thunderstorm,#53785a,wmo,toča wien margareten,2026-06-08T07:13:00+00:00,Austria,0.3013082223452812,1,1,sl,WCE,Europe
+'c8bad6097f',extremes,Heat Wave,#c40202,wmo,basilicata vročinski val,2026-06-09T06:32:00+00:00,Italy,0.3009272786768013,1,1,sl,MED,Europe
 'cf79e36ea7',extremes,Thunderstorm,#53785a,wmo,toča slovenija,2026-06-08T07:13:00+00:00,Slovenia,0.2999164518115702,4,1,sl,WCE,Europe
+'deaa4b70a0',extremes,Storm,#b3b2b1,random,peščeni vihar,2026-06-09T06:32:00+00:00,,0.2976037729038604,1,1,sl,,
+'507412aefc',extremes,Storm,#b3b2b1,wmo,nevihta italija,2026-06-02T07:08:00+00:00,Italy,0.2968117500322759,1,1,sl,MED,Europe
+'b66c3705c1',extremes,Thunderstorm,#53785a,wmo,hudo vreme bruck an der leitha,2026-06-08T07:13:00+00:00,Austria,0.29653983100606285,1,1,sl,WCE,Europe
 'ba0ba20b24',extremes,Precipitation,#d60d2b,wmo,dež steyr dežela,2026-06-10T06:49:00+00:00,Austria,0.291894892421295,2,1,sl,WCE,Europe
 '603c5d3b6e',extremes,Precipitation,#d60d2b,wmo,padavine liezen,2026-06-09T06:32:00+00:00,Austria,0.2909678200155199,2,1,sl,WCE,Europe
 '7b389df850',extremes,Storm,#b3b2b1,wmo,nevihta slovenija,2026-05-26T06:31:00+00:00,Slovenia,0.287392927615213,5,1,sl,WCE,Europe
@@ -64,13 +58,19 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '31e23123bb',extremes,Thunderstorm,#53785a,wmo,nevihta wien neubau,2026-06-08T07:13:00+00:00,Austria,0.2648116693603987,3,1,sl,WCE,Europe
 'eaf058ee04',extremes,Storm,#b3b2b1,wmo,nevihta villach land,2026-06-08T07:13:00+00:00,Austria,0.2646020253331291,3,1,sl,WCE,Europe
 'c6b47fe01a',extremes,Storm,#b3b2b1,wmo,storm surge slovenija jugozahod,2026-05-31T06:40:00+00:00,Slovenia,0.2641773878819299,5,1,sl,WCE,Europe
+'e2a645f9f9',extremes,Thunderstorm,#53785a,wmo,toča Sankt Pölten Stadt,2026-06-09T06:32:00+00:00,Austria,0.2638733159491346,2,1,sl,WCE,Europe
 '948c5be429',extremes,Storm,#b3b2b1,wmo,nevihta slovenija severovzhod,2026-06-04T07:06:00+00:00,Slovenia,0.2637754925126142,5,1,sl,WCE,Europe
 '6a1fee712a',extremes,Thunderstorm,#53785a,wmo,hudo vreme,2026-06-08T07:13:00+00:00,Austria,0.2636651939069827,3,1,sl,WCE,Europe
+'e8dc897411',extremes,Thunderstorm,#53785a,wmo,nevihta güssing,2026-06-09T06:32:00+00:00,Austria,0.2626864472924531,3,1,sl,WCE,Europe
 '8eef12189e',extremes,Storm,#b3b2b1,wmo,nevihtni val wien floridsdorf,2026-06-08T07:13:00+00:00,Austria,0.2626853782856758,3,1,sl,WCE,Europe
 '5968efe764',extremes,Precipitation,#d60d2b,wmo,dež avstrija,2026-06-09T06:32:00+00:00,Austria,0.2626317146481587,3,1,sl,WCE,Europe
+'aedb48a75b',extremes,Thunderstorm,#53785a,wmo,hudo vreme wien rudolfsheim fünfhaus,2026-06-08T07:13:00+00:00,Austria,0.2623845088325718,3,1,sl,WCE,Europe
+'77a5052457',extremes,Storm,#b3b2b1,wmo,nevihta neusiedl am glej,2026-06-09T06:32:00+00:00,Austria,0.2620388181847438,3,1,sl,WCE,Europe
 'ba00c39ed9',extremes,Thunderstorm,#53785a,wmo,toča wien penzing,2026-06-09T06:32:00+00:00,Austria,0.2611346882667649,3,1,sl,WCE,Europe
 'aebece3a58',extremes,Thunderstorm,#53785a,wmo,hudo vreme slovenija jugovzhod,2026-05-30T06:01:00+00:00,Slovenia,0.2610733910046936,4,1,sl,WCE,Europe
+'0b1d01b86b',extremes,Thunderstorm,#53785a,wmo,nevihta dežela Sankt Pölten,2026-06-08T07:13:00+00:00,Austria,0.2610354183725217,2,1,sl,WCE,Europe
 '56882a4101',extremes,Heat Wave,#c40202,wmo,vročinski val mattersburg,2026-05-26T06:31:00+00:00,Austria,0.2609863181302252,4,1,sl,WCE,Europe
+'538eadceb4',extremes,Heat Wave,#c40202,random,mila zima,2026-06-08T07:13:00+00:00,,0.26094760251101506,2,1,sl,,
 'f682496995',extremes,Heat Wave,#c40202,wmo,vročinski val wien mariahilf,2026-05-26T06:31:00+00:00,Austria,0.2586464276092522,4,1,sl,WCE,Europe
 'e67157887e',extremes,Drought,#edc291,edo,suhost slovenija,2026-06-03T07:23:00+00:00,Slovenia,0.2585905239938802,4,1,sl,WCE,Europe
 'a98c3b7a2c',extremes,Heat Wave,#c40202,wmo,vročinski val steyr land,2026-05-26T06:31:00+00:00,Austria,0.2585064192173444,4,1,sl,WCE,Europe
