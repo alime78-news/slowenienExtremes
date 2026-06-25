@@ -1,20 +1,14 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'0f6d5dc9e0',extremes,Flood,#030ba1,wmo,poplavna gradaščica,2026-06-23T06:33:00+00:00,Slovenia,0.6589079445676663,0,1,sl,WCE,Europe
-'649bb080e1',extremes,Heat Wave,#c40202,wmo,toplotni val lienz,2026-06-17T07:33:00+00:00,Austria,0.4755244433068542,0,1,sl,WCE,Europe
-'cb76411c7e',extremes,Storm,#b3b2b1,wmo,storm surge avstrija,2026-06-18T07:16:00+00:00,Austria,0.4755204796453446,0,1,sl,WCE,Europe
-'a936a999c7',extremes,Heat Wave,#c40202,wmo,vročinski val rust stadt,2026-06-18T07:16:00+00:00,Austria,0.47514208998783114,0,1,sl,WCE,Europe
-'596c6c15b4',extremes,Thunderstorm,#53785a,wmo,toča avstrija,2026-06-18T07:16:00+00:00,Austria,0.47497519260591514,0,1,sl,WCE,Europe
-'8db80effe5',extremes,Heat Wave,#c40202,wmo,rog toplotnega vala,2026-06-18T07:16:00+00:00,Austria,0.4744969996623424,0,1,sl,WCE,Europe
-'1d93f98a94',extremes,Heat Wave,#c40202,wmo,vročinski val dežela Sankt Pölten,2026-06-18T07:16:00+00:00,Austria,0.47424045040969487,0,1,sl,WCE,Europe
-'768d0f8039',extremes,Heat Wave,#c40202,wmo,vročinski val beljaška dežela,2026-06-18T07:16:00+00:00,Austria,0.4739235554388578,0,1,sl,WCE,Europe
-'4b3914bd12',extremes,Heat Wave,#c40202,wmo,toplotni val liezen,2026-06-20T06:47:00+00:00,Austria,0.4739066989075439,0,1,sl,WCE,Europe
-'de21b3d7b5',extremes,Heat Wave,#c40202,wmo,vročinski val wiener neustadt stadt,2026-06-19T07:39:00+00:00,Austria,0.4734120147567552,0,1,sl,WCE,Europe
-'9895f39f78',extremes,Heat Wave,#c40202,wmo,vročinski val neunkirchen,2026-06-19T07:39:00+00:00,Austria,0.4063427192801466,1,1,sl,WCE,Europe
-'979ec45109',extremes,Heat Wave,#c40202,wmo,vročinski val wien döbling,2026-06-20T06:47:00+00:00,Austria,0.4059717611165016,1,1,sl,WCE,Europe
-'373a7dee66',extremes,Heat Wave,#c40202,wmo,vročinski val feldkirchen,2026-06-19T07:39:00+00:00,Austria,0.4059372641262541,1,1,sl,WCE,Europe
-'43eb4d9368',extremes,Heat Wave,#c40202,wmo,vročinski val eisenstadt umgebung,2026-06-18T07:16:00+00:00,Austria,0.4049773026942391,1,1,sl,WCE,Europe
-'4165a63454',extremes,Heat Wave,#c40202,wmo,vročinski val leoben,2026-06-18T07:16:00+00:00,Austria,0.4042637094236564,1,1,sl,WCE,Europe
-'33db445b97',extremes,Heat Wave,#c40202,wmo,vročinski val klagenfurt stadt,2026-06-17T07:33:00+00:00,Austria,0.4042536069465569,1,1,sl,WCE,Europe
+'0f6d5dc9e0',extremes,Flood,#030ba1,wmo,poplavna gradaščica,2026-06-23T06:33:00+00:00,Slovenia,0.5600717528825163,1,1,sl,WCE,Europe
+'649bb080e1',extremes,Heat Wave,#c40202,wmo,toplotni val lienz,2026-06-17T07:33:00+00:00,Austria,0.4041957768108261,1,1,sl,WCE,Europe
+'cb76411c7e',extremes,Storm,#b3b2b1,wmo,storm surge avstrija,2026-06-18T07:16:00+00:00,Austria,0.4041924076985429,1,1,sl,WCE,Europe
+'a936a999c7',extremes,Heat Wave,#c40202,wmo,vročinski val rust stadt,2026-06-18T07:16:00+00:00,Austria,0.4038707764896564,1,1,sl,WCE,Europe
+'596c6c15b4',extremes,Thunderstorm,#53785a,wmo,toča avstrija,2026-06-18T07:16:00+00:00,Austria,0.40372891371502784,1,1,sl,WCE,Europe
+'8db80effe5',extremes,Heat Wave,#c40202,wmo,rog toplotnega vala,2026-06-18T07:16:00+00:00,Austria,0.403322449712991,1,1,sl,WCE,Europe
+'1d93f98a94',extremes,Heat Wave,#c40202,wmo,vročinski val dežela Sankt Pölten,2026-06-18T07:16:00+00:00,Austria,0.40310438284824057,1,1,sl,WCE,Europe
+'768d0f8039',extremes,Heat Wave,#c40202,wmo,vročinski val beljaška dežela,2026-06-18T07:16:00+00:00,Austria,0.40283502212302913,1,1,sl,WCE,Europe
+'4b3914bd12',extremes,Heat Wave,#c40202,wmo,toplotni val liezen,2026-06-20T06:47:00+00:00,Austria,0.4028206940714123,1,1,sl,WCE,Europe
+'de21b3d7b5',extremes,Heat Wave,#c40202,wmo,vročinski val wiener neustadt stadt,2026-06-19T07:39:00+00:00,Austria,0.40240021254324193,1,1,sl,WCE,Europe
 '367efc68df',extremes,Storm,#b3b2b1,wmo,nevihta slovenija jugovzhod,2026-06-03T07:23:00+00:00,Slovenia,0.3883534656632381,3,1,sl,WCE,Europe
 '14ab057757',extremes,Thunderstorm,#53785a,wmo,toča slovenija osrednje,2026-06-20T06:47:00+00:00,Slovenia,0.3876131139391079,3,1,sl,WCE,Europe
 'c1940327ca',extremes,Thunderstorm,#53785a,wmo,nevihta slovenija,2026-06-19T07:39:00+00:00,Slovenia,0.3802934385414191,2,1,sl,WCE,Europe
@@ -45,7 +39,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '997d3a0b2a',extremes,Heat Wave,#c40202,wmo,vročinski val wien leopoldstadt,2026-06-19T07:39:00+00:00,Austria,0.3455424536437925,2,1,sl,WCE,Europe
 '6aad127a70',extremes,Heat Wave,#c40202,wmo,toplotni val wien simmering,2026-06-19T07:39:00+00:00,Austria,0.3455202092225533,2,1,sl,WCE,Europe
 '80b0e59995',extremes,Heat Wave,#c40202,wmo,vročinski val bruck an der leitha,2026-06-17T07:33:00+00:00,Austria,0.3454584017622613,2,1,sl,WCE,Europe
+'9895f39f78',extremes,Heat Wave,#c40202,wmo,vročinski val neunkirchen,2026-06-19T07:39:00+00:00,Austria,0.34539131138812457,2,1,sl,WCE,Europe
+'979ec45109',extremes,Heat Wave,#c40202,wmo,vročinski val wien döbling,2026-06-20T06:47:00+00:00,Austria,0.34507599694902635,2,1,sl,WCE,Europe
+'373a7dee66',extremes,Heat Wave,#c40202,wmo,vročinski val feldkirchen,2026-06-19T07:39:00+00:00,Austria,0.34504667450731596,2,1,sl,WCE,Europe
+'43eb4d9368',extremes,Heat Wave,#c40202,wmo,vročinski val eisenstadt umgebung,2026-06-18T07:16:00+00:00,Austria,0.34423070729010324,2,1,sl,WCE,Europe
 'f09f670a34',extremes,Flood,#030ba1,wmo,poplavlja spodnja sava,2026-06-23T06:33:00+00:00,Slovenia,0.3438327921261328,4,1,sl,WCE,Europe
+'4165a63454',extremes,Heat Wave,#c40202,wmo,vročinski val leoben,2026-06-18T07:16:00+00:00,Austria,0.34362415301010796,2,1,sl,WCE,Europe
+'33db445b97',extremes,Heat Wave,#c40202,wmo,vročinski val klagenfurt stadt,2026-06-17T07:33:00+00:00,Austria,0.3436155659045733,2,1,sl,WCE,Europe
 'c1bee43b2b',extremes,Flood,#030ba1,wmo,poplavlja zgornja drava,2026-06-22T08:39:00+00:00,Slovenia,0.3419480858609575,4,1,sl,WCE,Europe
 '6a8897f5a8',extremes,Precipitation,#d60d2b,wmo,nalivi srednja sava,2026-06-23T06:33:00+00:00,Slovenia,0.3419404872486192,3,1,sl,WCE,Europe
 '8dbc3978e0',extremes,Precipitation,#d60d2b,wmo,naliv sora,2026-06-22T08:39:00+00:00,Slovenia,0.3416330107332494,3,1,sl,WCE,Europe
