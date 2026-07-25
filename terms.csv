@@ -1,14 +1,14 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'c86bc393cd',extremes,Thunderstorm,#53785a,wmo,hudo vreme slovenija morje,2026-07-25T05:29:00+00:00,Slovenia,0.47839891286985614,0,1,sl,WCE,Europe
-'ec52a231f8',extremes,Storm,#b3b2b1,wmo,nevihtni val melk,2026-07-19T05:37:00+00:00,Austria,0.4248049263187044,0,1,sl,WCE,Europe
-'f90601fa23',extremes,Volcano,#b83202,random,izbruh vulkana,2026-07-25T05:28:00+00:00,,0.4100075473236523,0,1,sl,,
-'a4e63fa11b',extremes,Snow&Ice,#d60d2b,random,zimska zima,2026-07-21T05:36:00+00:00,,0.3901786501877474,0,1,sl,,
-'16aa48504a',extremes,Cold Wave,#a7e9fa,random,kapljice živega srebra,2026-07-10T06:27:00+00:00,,0.38983801103520876,0,1,sl,,
-'e4c0eb1729',extremes,Wildfire,#d60d2b,random,gozdni požar,2026-07-11T05:26:00+00:00,,0.3863015265779371,0,1,sl,,
+'c86bc393cd',extremes,Thunderstorm,#53785a,wmo,hudo vreme slovenija morje,2026-07-25T05:29:00+00:00,Slovenia,0.40663907593937765,1,1,sl,WCE,Europe
+'e4c0eb1729',extremes,Wildfire,#d60d2b,random,gozdni požar,2026-07-11T05:26:00+00:00,,0.3863015265779371,1,1,sl,,
 '056bed0dad',extremes,Cold Wave,#a7e9fa,random,najhladnejša zima,2026-07-09T06:27:00+00:00,,0.3854337087576914,0,1,sl,,
-'d2b5043a66',extremes,Cold Wave,#a7e9fa,random,najnižja minimalna temperatura,2026-07-20T05:54:00+00:00,,0.38364608553987234,0,1,sl,,
+'d2b5043a66',extremes,Cold Wave,#a7e9fa,random,najnižja minimalna temperatura,2026-07-20T05:54:00+00:00,,0.3836460855398723,0,1,sl,,
 'ed4b599f93',extremes,Thunderstorm,#53785a,wmo,toča sankt veit an der glan,2026-07-13T05:53:00+00:00,Austria,0.3821988885761538,0,1,sl,WCE,Europe
 '1fefacbadb',extremes,Iceberg,#d60d2b,random,odtelitev ledenika,2026-07-15T05:15:00+00:00,,0.3795318783498281,0,1,sl,,
+'ec52a231f8',extremes,Storm,#b3b2b1,wmo,nevihtni val melk,2026-07-19T05:37:00+00:00,Austria,0.36108418737089876,1,1,sl,WCE,Europe
+'f90601fa23',extremes,Volcano,#b83202,random,izbruh vulkana,2026-07-25T05:28:00+00:00,,0.34850641522510445,1,1,sl,,
+'a4e63fa11b',extremes,Snow&Ice,#d60d2b,random,zimska zima,2026-07-21T05:36:00+00:00,,0.33165185265958524,1,1,sl,,
+'16aa48504a',extremes,Cold Wave,#a7e9fa,random,kapljice živega srebra,2026-07-10T06:27:00+00:00,,0.3313623093799274,1,1,sl,,
 '2924915d01',extremes,Heat Wave,#c40202,wmo,vročinski val slovenija severovzhod,2026-07-16T05:25:00+00:00,Slovenia,0.3252497828655535,5,1,sl,WCE,Europe
 '4fd5ebad06',extremes,Wildfire,#d60d2b,wmo,požar v naravi slovenija jugozahod,2026-07-08T05:37:00+00:00,Slovenia,0.3248143491383592,5,1,sl,WCE,Europe
 '367efc68df',extremes,Storm,#b3b2b1,wmo,nevihta slovenija jugovzhod,2026-06-30T06:39:00+00:00,Slovenia,0.3210802628313304,4,1,sl,WCE,Europe
