@@ -1,25 +1,23 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'98ff5c9897',extremes,Wildfire,#d60d2b,wmo,požar v naravi slovenija,2026-07-29T05:37:00+00:00,Slovenia,0.6677451639615162,1,1,sl,WCE,Europe
-'ca8d37e30d',extremes,Wildfire,#d60d2b,wmo,požar v naravi slovenija severovzhod,2026-07-31T05:51:00+00:00,Slovenia,0.6499845226720637,1,1,sl,WCE,Europe
-'8718fe0cf3',extremes,Wildfire,#d60d2b,wmo,požar v naravi slovenija severozahod,2026-07-29T05:37:00+00:00,Slovenia,0.6239315261114087,1,1,sl,WCE,Europe
-'2f30862216',extremes,Drought,#edc291,edo,suho obdobje v avstriji,2026-07-31T05:51:00+00:00,Austria,0.43235134333021075,1,1,sl,WCE,Europe
-'c86bc393cd',extremes,Thunderstorm,#53785a,wmo,hudo vreme slovenija morje,2026-08-17T03:28:00+00:00,Slovenia,0.41505452719527985,1,1,sl,WCE,Europe
-'37c2f83cd3',extremes,Heat Wave,#c40202,wmo,vročinski val wien josefstadt,2026-07-31T05:51:00+00:00,Austria,0.3997577597552908,1,1,sl,WCE,Europe
-'a25ebcba91',extremes,Heat Wave,#c40202,wmo,vročinski val korneuburg,2026-08-04T05:32:00+00:00,Austria,0.39756470156135254,1,1,sl,WCE,Europe
+'ca8d37e30d',extremes,Wildfire,#d60d2b,wmo,požar v naravi slovenija severovzhod,2026-07-31T05:51:00+00:00,Slovenia,0.5524868442712542,2,1,sl,WCE,Europe
+'8718fe0cf3',extremes,Wildfire,#d60d2b,wmo,požar v naravi slovenija severozahod,2026-07-29T05:37:00+00:00,Slovenia,0.5303417971946973,2,1,sl,WCE,Europe
+'a25ebcba91',extremes,Heat Wave,#c40202,wmo,vročinski val korneuburg,2026-08-04T05:32:00+00:00,Austria,0.3975647015613525,1,1,sl,WCE,Europe
 '6a7ad15d32',extremes,Heat Wave,#c40202,wmo,vročinski val ried im innkreis,2026-07-31T05:51:00+00:00,Austria,0.3924105663289692,1,1,sl,WCE,Europe
-'4672337920',extremes,Heat Wave,#c40202,wmo,vročinski val tamsweg,2026-07-29T05:37:00+00:00,Austria,0.39024682489844853,1,1,sl,WCE,Europe
+'4672337920',extremes,Heat Wave,#c40202,wmo,vročinski val tamsweg,2026-07-29T05:37:00+00:00,Austria,0.3902468248984485,1,1,sl,WCE,Europe
 'c779108988',extremes,Wildfire,#d60d2b,wmo,požar v naravi slovenija osrednja,2026-08-01T05:42:00+00:00,Slovenia,0.3886897571759888,4,1,sl,WCE,Europe
-'64b71aaab1',extremes,Heat Wave,#c40202,wmo,toplotni val murau,2026-07-29T05:37:00+00:00,Austria,0.38865392421120987,1,1,sl,WCE,Europe
-'0b3eea1264',extremes,Heat Wave,#c40202,wmo,vročinski val slovenija,2026-07-30T05:24:00+00:00,Slovenia,0.38574072266693316,4,1,sl,WCE,Europe
-'2dba38a32e',extremes,Thunderstorm,#53785a,wmo,hudo vreme slovenija,2026-08-16T03:28:00+00:00,Slovenia,0.3665369706555881,3,1,sl,WCE,Europe
-'ea02c6ad93',extremes,Wildfire,#d60d2b,effis,gozdni požar v avstriji,2026-08-07T11:06:00+00:00,Austria,0.35421494104160994,3,1,sl,WCE,Europe
-'572f3276c6',extremes,Storm,#b3b2b1,wmo,burja slovenija jugozahod,2026-08-17T03:28:00+00:00,Slovenia,0.3261677756333307,4,1,sl,WCE,Europe
+'64b71aaab1',extremes,Heat Wave,#c40202,wmo,toplotni val murau,2026-07-29T05:37:00+00:00,Austria,0.3886539242112098,1,1,sl,WCE,Europe
+'0b3eea1264',extremes,Heat Wave,#c40202,wmo,vročinski val slovenija,2026-07-30T05:24:00+00:00,Slovenia,0.3857407226669331,4,1,sl,WCE,Europe
+'2f30862216',extremes,Drought,#edc291,edo,suho obdobje v avstriji,2026-07-31T05:51:00+00:00,Austria,0.3674986418306791,2,1,sl,WCE,Europe
+'ea02c6ad93',extremes,Wildfire,#d60d2b,effis,gozdni požar v avstriji,2026-08-07T11:06:00+00:00,Austria,0.3542149410416099,3,1,sl,WCE,Europe
+'c86bc393cd',extremes,Thunderstorm,#53785a,wmo,hudo vreme slovenija morje,2026-08-17T03:28:00+00:00,Slovenia,0.3527963481159878,2,1,sl,WCE,Europe
+'37c2f83cd3',extremes,Heat Wave,#c40202,wmo,vročinski val wien josefstadt,2026-07-31T05:51:00+00:00,Austria,0.3397940957919972,2,1,sl,WCE,Europe
+'2dba38a32e',extremes,Thunderstorm,#53785a,wmo,hudo vreme slovenija,2026-08-16T03:28:00+00:00,Slovenia,0.3115564250572499,4,1,sl,WCE,Europe
 'eaad381aab',extremes,Thunderstorm,#53785a,wmo,nevihta slovenija severozahod,2026-08-17T03:28:00+00:00,Slovenia,0.2949458746916562,3,1,sl,WCE,Europe
+'572f3276c6',extremes,Storm,#b3b2b1,wmo,burja slovenija jugozahod,2026-08-17T03:28:00+00:00,Slovenia,0.2772426092883311,5,1,sl,WCE,Europe
 '4b3ac84dec',extremes,Storm,#b3b2b1,wmo,storm surge slovenija morje,2026-08-16T03:28:00+00:00,Slovenia,0.2624322251019348,6,1,sl,WCE,Europe
 'b457c4ae91',extremes,Storm,#b3b2b1,wmo,storm surge slovenija severozahod,2026-08-07T09:56:00+00:00,Slovenia,0.2446227137786489,6,1,sl,WCE,Europe
 '4fd5ebad06',extremes,Wildfire,#d60d2b,wmo,požar v naravi slovenija jugozahod,2026-07-31T05:51:00+00:00,Slovenia,0.23839012531049,7,1,sl,WCE,Europe
 'd6e0834e14',extremes,Wildfire,#d60d2b,wmo,požar v naravi slovenija jugovzhod,2026-07-31T05:51:00+00:00,Slovenia,0.2374176558834872,7,1,sl,WCE,Europe
-'4c9135efe3',extremes,Heat Wave,#c40202,wmo,vročinski val salzburg umgebung,2026-07-31T05:51:00+00:00,Austria,0.2340846291206502,4,1,sl,WCE,Europe
 '948c5be429',extremes,Storm,#b3b2b1,wmo,nevihta slovenija severovzhod,2026-08-09T03:59:00+00:00,Slovenia,0.2336819925588196,6,1,sl,WCE,Europe
 '877d8121d6',extremes,Thunderstorm,#53785a,wmo,hudo vreme slovenija osrednje,2026-08-16T03:28:00+00:00,Slovenia,0.2336541467048705,7,1,sl,WCE,Europe
 'efb002bcd6',extremes,Heat Wave,#c40202,wmo,vročinski val eisenstadt stadt,2026-08-05T05:31:00+00:00,Austria,0.2326175604265354,4,1,sl,WCE,Europe
@@ -29,18 +27,14 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '641b056b95',extremes,Heat Wave,#c40202,wmo,vročinski val slovenija jugovzhod,2026-08-04T05:32:00+00:00,Slovenia,0.2285879788843462,7,1,sl,WCE,Europe
 '14ab057757',extremes,Thunderstorm,#53785a,wmo,toča slovenija osrednje,2026-08-10T04:14:00+00:00,Slovenia,0.2277910291423563,5,1,sl,WCE,Europe
 'a5c4bf54b7',extremes,Storm,#b3b2b1,wmo,storm surge slovenija severovzhod,2026-08-06T05:33:00+00:00,Slovenia,0.227592789871728,7,1,sl,WCE,Europe
-'10e4d9ffb7',extremes,Storm,#b3b2b1,wmo,storm surge slovenija,2026-08-06T05:33:00+00:00,Slovenia,0.2263811853652574,7,1,sl,WCE,Europe
 'ed3d9325af',extremes,Wildfire,#d60d2b,effis,požar v avstriji,2026-08-12T04:22:00+00:00,Austria,0.2200480514873307,5,1,sl,WCE,Europe
 '0cdb9d0c41',extremes,Storm,#b3b2b1,wmo,storm surge wien simmering,2026-07-27T06:05:00+00:00,Austria,0.2194254198834404,4,1,sl,WCE,Europe
 'e67157887e',extremes,Drought,#edc291,edo,suhost slovenija,2026-07-30T05:24:00+00:00,Slovenia,0.2179537764639079,5,1,sl,WCE,Europe
 'ef129924dc',extremes,Wildfire,#d60d2b,meteo,gozdni požar slovenija,2026-08-07T11:06:00+00:00,Slovenia,0.2172598254843617,6,1,sl,WCE,Europe
 '7b389df850',extremes,Storm,#b3b2b1,wmo,nevihta slovenija,2026-08-07T11:06:00+00:00,Slovenia,0.2116782261333632,7,1,sl,WCE,Europe
 '59c47363f8',extremes,Storm,#b3b2b1,wmo,nevihta slovenija severozahod,2026-07-31T05:51:00+00:00,Slovenia,0.2108247258762374,6,1,sl,WCE,Europe
-'a03224f6a9',extremes,Heat Wave,#c40202,meteo,visoka temperatura slovenija,2026-08-07T11:06:00+00:00,Slovenia,0.2087290308858185,6,1,sl,WCE,Europe
-'4412ad1e49',extremes,Storm,#b3b2b1,wmo,nevihtni val amstetten,2026-08-02T05:42:00+00:00,Austria,0.20844024507031,4,1,sl,WCE,Europe
 '576c17e8df',extremes,Heat Wave,#c40202,wmo,vročinski val hallein,2026-08-02T05:42:00+00:00,Austria,0.2080171896609302,5,1,sl,WCE,Europe
 'b43a4dc985',extremes,Heat Wave,#c40202,wmo,vročinski val dežela Wiener Neustadt,2026-08-01T05:42:00+00:00,Austria,0.2075410979415359,5,1,sl,WCE,Europe
-'1a3f19d839',extremes,Heat Wave,#c40202,wmo,vročinski val wien ottakring,2026-08-01T05:42:00+00:00,Austria,0.2071725052206316,5,1,sl,WCE,Europe
 '538ad91bbf',extremes,Heat Wave,#c40202,wmo,vročinski val voitsberg,2026-08-02T05:42:00+00:00,Austria,0.2065828136371266,5,1,sl,WCE,Europe
 '9895f39f78',extremes,Heat Wave,#c40202,wmo,vročinski val neunkirchen,2026-08-04T05:32:00+00:00,Austria,0.2064964745816341,5,1,sl,WCE,Europe
 'dd14e97d87',extremes,Heat Wave,#c40202,wmo,vročinski val oberwart,2026-07-31T05:51:00+00:00,Austria,0.2063994669391866,5,1,sl,WCE,Europe
@@ -52,7 +46,6 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'cd04e567b7',extremes,Heat Wave,#c40202,wmo,vročinski val wien floridsdorf,2026-08-01T05:42:00+00:00,Austria,0.2051527701154414,5,1,sl,WCE,Europe
 '289ccbc6fb',extremes,Heat Wave,#c40202,wmo,vročinski val wien favoriten,2026-08-02T05:42:00+00:00,Austria,0.205151522443489,5,1,sl,WCE,Europe
 '412b749be2',extremes,Heat Wave,#c40202,wmo,toplotni val leibnitz,2026-08-03T05:57:00+00:00,Austria,0.2051138731967098,5,1,sl,WCE,Europe
-'48b7df133f',extremes,Heat Wave,#c40202,wmo,vročinski val melk,2026-08-03T05:57:00+00:00,Austria,0.2049579754279357,5,1,sl,WCE,Europe
 '4a9dee2eb3',extremes,Heat Wave,#c40202,wmo,vročinski val jennersdorf,2026-08-05T05:31:00+00:00,Austria,0.204839457299635,5,1,sl,WCE,Europe
 '33db445b97',extremes,Heat Wave,#c40202,wmo,vročinski val klagenfurt stadt,2026-07-30T05:24:00+00:00,Austria,0.2043055334255794,5,1,sl,WCE,Europe
 'b7fb21d521',extremes,Heat Wave,#c40202,wmo,vročinski val wien donaustadt,2026-08-03T05:57:00+00:00,Austria,0.2042983308232052,5,1,sl,WCE,Europe
@@ -111,6 +104,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '76a2247b07',extremes,Thunderstorm,#53785a,wmo,hudo vreme neunkirchen,2026-08-16T03:28:00+00:00,Austria,0.1994819474466948,5,1,sl,WCE,Europe
 '80cb0b129a',extremes,Heat Wave,#c40202,wmo,toplotni val gmunden,2026-08-02T05:42:00+00:00,Austria,0.1994604152251934,5,1,sl,WCE,Europe
 '6aad127a70',extremes,Heat Wave,#c40202,wmo,toplotni val wien simmering,2026-08-03T05:57:00+00:00,Austria,0.1994350973496056,5,1,sl,WCE,Europe
+'4c9135efe3',extremes,Heat Wave,#c40202,wmo,vročinski val salzburg umgebung,2026-07-31T05:51:00+00:00,Austria,0.19897193475255268,5,1,sl,WCE,Europe
 '25d361ff38',extremes,Heat Wave,#c40202,wmo,vročinski val dornbirn,2026-08-02T05:42:00+00:00,Austria,0.1987841285315131,5,1,sl,WCE,Europe
 'abbc3d2b7f',extremes,Heat Wave,#c40202,wmo,vročinski val neusiedl am see,2026-08-07T04:37:00+00:00,Austria,0.1986957409937444,5,1,sl,WCE,Europe
 '2c8eb9f60d',extremes,Heat Wave,#c40202,wmo,toplotni val mistelbach,2026-08-01T05:42:00+00:00,Austria,0.1985096302706543,5,1,sl,WCE,Europe
@@ -131,6 +125,7 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 '5c2e689501',extremes,Heat Wave,#c40202,wmo,toplotni val gmünd,2026-08-01T05:42:00+00:00,Austria,0.194715291166853,5,1,sl,WCE,Europe
 '5effaca307',extremes,Drought,#edc291,edo,suša slovenija,2026-08-11T04:01:00+00:00,Slovenia,0.1936903095724049,6,1,sl,WCE,Europe
 '618fa4963e',extremes,Storm,#b3b2b1,wmo,nevihta avstrija,2026-07-31T05:51:00+00:00,Austria,0.1924578666931962,5,1,sl,WCE,Europe
+'10e4d9ffb7',extremes,Storm,#b3b2b1,wmo,storm surge slovenija,2026-08-06T05:33:00+00:00,Slovenia,0.1924240075604688,8,1,sl,WCE,Europe
 '7eede06eba',extremes,Thunderstorm,#53785a,wmo,nevihta avstrija,2026-07-31T05:51:00+00:00,Austria,0.1920515308793704,4,1,sl,WCE,Europe
 '1737cff508',extremes,Thunderstorm,#53785a,wmo,nevihta melk,2026-08-01T05:42:00+00:00,Austria,0.1920377624226603,5,1,sl,WCE,Europe
 '1fc971b4ce',extremes,Storm,#b3b2b1,wmo,nevihta Sankt Johann im Pongau,2026-07-31T05:51:00+00:00,Austria,0.1906580054737817,5,1,sl,WCE,Europe
@@ -161,20 +156,23 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'efd4a65dcc',extremes,Storm,#b3b2b1,wmo,nevihta wien leopoldstadt,2026-07-27T06:05:00+00:00,Austria,0.1813093839279385,5,1,sl,WCE,Europe
 '7fdeb84a15',extremes,Storm,#b3b2b1,wmo,nevihtni val wien neubau,2026-07-27T06:05:00+00:00,Austria,0.1795036837678613,5,1,sl,WCE,Europe
 '450630844b',extremes,Storm,#b3b2b1,wmo,nevihtni val wien innere stadt,2026-07-27T06:05:00+00:00,Austria,0.1793685606596455,5,1,sl,WCE,Europe
-'cb76411c7e',extremes,Storm,#b3b2b1,wmo,storm surge avstrija,2026-07-31T05:51:00+00:00,Austria,0.1784488011007788,6,1,sl,WCE,Europe
 '2924915d01',extremes,Heat Wave,#c40202,wmo,vročinski val slovenija severovzhod,2026-08-07T04:37:00+00:00,Slovenia,0.1782860622350564,8,1,sl,WCE,Europe
 'c83f84aa0c',extremes,Heat Wave,#c40202,wmo,toplotni val wien alsergrund,2026-08-02T05:42:00+00:00,Austria,0.1778192452374934,6,1,sl,WCE,Europe
 '56882a4101',extremes,Heat Wave,#c40202,wmo,vročinski val mattersburg,2026-07-31T05:51:00+00:00,Austria,0.1777934526671932,6,1,sl,WCE,Europe
+'a03224f6a9',extremes,Heat Wave,#c40202,meteo,visoka temperatura slovenija,2026-08-07T11:06:00+00:00,Slovenia,0.17741967625294572,7,1,sl,WCE,Europe
+'4412ad1e49',extremes,Storm,#b3b2b1,wmo,nevihtni val amstetten,2026-08-02T05:42:00+00:00,Austria,0.1771742083097635,5,1,sl,WCE,Europe
 '2009fba247',extremes,Heat Wave,#c40202,wmo,vročinski val sankt veit an der glan,2026-08-01T05:42:00+00:00,Austria,0.176855107652234,7,1,sl,WCE,Europe
 'f65d206b41',extremes,Heat Wave,#c40202,wmo,vročinski val weiz,2026-07-31T05:51:00+00:00,Austria,0.1767885902150694,6,1,sl,WCE,Europe
 'd7d26684ae',extremes,Heat Wave,#c40202,wmo,vročinski val slovenija jugozahod,2026-08-07T09:56:00+00:00,Slovenia,0.1765912062529152,8,1,sl,WCE,Europe
 'c1ece6a9e9',extremes,Heat Wave,#c40202,wmo,vročinski val tulln,2026-08-03T05:57:00+00:00,Austria,0.1763634034382155,6,1,sl,WCE,Europe
 'ddf73912d5',extremes,Heat Wave,#c40202,wmo,vročinski val wien margareten,2026-08-02T05:42:00+00:00,Austria,0.1760985509960258,6,1,sl,WCE,Europe
+'1a3f19d839',extremes,Heat Wave,#c40202,wmo,vročinski val wien ottakring,2026-08-01T05:42:00+00:00,Austria,0.17609662943753684,6,1,sl,WCE,Europe
 'baad89d880',extremes,Heat Wave,#c40202,wmo,vročinski val mödling,2026-08-03T05:57:00+00:00,Austria,0.1755549006553932,6,1,sl,WCE,Europe
 'a936a999c7',extremes,Heat Wave,#c40202,wmo,vročinski val rust stadt,2026-08-02T05:42:00+00:00,Austria,0.1754388462035842,6,1,sl,WCE,Europe
 '56374e5b62',extremes,Heat Wave,#c40202,wmo,vročinski val güssing,2026-08-01T05:42:00+00:00,Austria,0.1748690207442,6,1,sl,WCE,Europe
 'de21b3d7b5',extremes,Heat Wave,#c40202,wmo,vročinski val wiener neustadt stadt,2026-08-04T05:32:00+00:00,Austria,0.1748506474468463,6,1,sl,WCE,Europe
 '84dfdca0f8',extremes,Thunderstorm,#53785a,random,toča,2026-07-29T05:37:00+00:00,,0.1743999760462697,5,1,sl,,
+'48b7df133f',extremes,Heat Wave,#c40202,wmo,vročinski val melk,2026-08-03T05:57:00+00:00,Austria,0.17421427911374535,6,1,sl,WCE,Europe
 'e37b1ffa16',extremes,Heat Wave,#c40202,wmo,vročinski val wels land,2026-07-30T05:24:00+00:00,Austria,0.1740656218880074,6,1,sl,WCE,Europe
 '980c77d360',extremes,Heat Wave,#c40202,wmo,vročinski val graz umgebung,2026-07-30T05:24:00+00:00,Austria,0.1734278276033245,6,1,sl,WCE,Europe
 '1726432452',extremes,Heat Wave,#c40202,wmo,toplotni val bludenz,2026-08-04T05:32:00+00:00,Austria,0.1731816815508898,6,1,sl,WCE,Europe
