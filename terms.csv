@@ -1,13 +1,10 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
-'0b3eea1264',extremes,Heat Wave,#c40202,meteo,vročinski val slovenija,2026-08-21T03:30:00+00:00,Slovenia,0.7402708840061258,0,1,sl,WCE,Europe
-'877d8121d6',extremes,Thunderstorm,#53785a,wmo,hudo vreme slovenija osrednje,2026-08-16T03:28:00+00:00,Slovenia,0.728854791081889,0,1,sl,WCE,Europe
-'4b3ac84dec',extremes,Storm,#b3b2b1,wmo,storm surge slovenija morje,2026-08-16T03:28:00+00:00,Slovenia,0.6958307361658431,0,1,sl,WCE,Europe
-'643ecbd19b',extremes,Thunderstorm,#53785a,wmo,hudo vreme slovenija severozahod,2026-08-11T04:01:00+00:00,Slovenia,0.6325815299266643,0,1,sl,WCE,Europe
-'a03224f6a9',extremes,Heat Wave,#c40202,meteo,visoka temperatura slovenija,2026-08-29T09:18:00+00:00,Slovenia,0.6186838497007644,0,1,sl,WCE,Europe
+'0b3eea1264',extremes,Heat Wave,#c40202,meteo,vročinski val slovenija,2026-08-21T03:30:00+00:00,Slovenia,0.6292302514052069,1,1,sl,WCE,Europe
+'877d8121d6',extremes,Thunderstorm,#53785a,wmo,hudo vreme slovenija osrednje,2026-08-16T03:28:00+00:00,Slovenia,0.6195265724196056,1,1,sl,WCE,Europe
+'4b3ac84dec',extremes,Storm,#b3b2b1,wmo,storm surge slovenija morje,2026-08-16T03:28:00+00:00,Slovenia,0.5914561257409666,1,1,sl,WCE,Europe
+'643ecbd19b',extremes,Thunderstorm,#53785a,wmo,hudo vreme slovenija severozahod,2026-08-11T04:01:00+00:00,Slovenia,0.5376943004376646,1,1,sl,WCE,Europe
+'a03224f6a9',extremes,Heat Wave,#c40202,meteo,visoka temperatura slovenija,2026-08-29T09:18:00+00:00,Slovenia,0.5258812722456497,1,1,sl,WCE,Europe
 '641b056b95',extremes,Heat Wave,#c40202,wmo,vročinski val slovenija jugovzhod,2026-08-26T03:34:00+00:00,Slovenia,0.5061087122083494,2,1,sl,WCE,Europe
-'ec13a83132',extremes,Heat Wave,#c40202,wmo,vročinski val südoststeiermark,2026-08-28T14:32:00+00:00,Austria,0.5039046469567027,0,1,sl,WCE,Europe
-'33db445b97',extremes,Heat Wave,#c40202,wmo,vročinski val klagenfurt stadt,2026-08-27T13:00:00+00:00,Austria,0.503583666388278,0,1,sl,WCE,Europe
-'979ec45109',extremes,Heat Wave,#c40202,wmo,vročinski val wien döbling,2026-08-27T13:00:00+00:00,Austria,0.500570387784955,0,1,sl,WCE,Europe
 '17b0136195',extremes,Heat Wave,#c40202,wmo,vročinski val völkermarkt,2026-08-26T03:34:00+00:00,Austria,0.5004205719489127,0,1,sl,WCE,Europe
 '419897bfcc',extremes,Heat Wave,#c40202,wmo,vročinski val wien wieden,2026-08-28T14:32:00+00:00,Austria,0.499084523663243,0,1,sl,WCE,Europe
 'dd0db91edf',extremes,Precipitation,#d60d2b,wmo,padavine slovenija,2026-08-21T03:30:00+00:00,Slovenia,0.4754978918972932,2,1,sl,WCE,Europe
@@ -24,7 +21,10 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'a5c4bf54b7',extremes,Storm,#b3b2b1,wmo,storm surge slovenija severovzhod,2026-08-06T05:33:00+00:00,Slovenia,0.4359962929021025,3,1,sl,WCE,Europe
 'b457c4ae91',extremes,Storm,#b3b2b1,wmo,storm surge slovenija severozahod,2026-08-07T09:56:00+00:00,Slovenia,0.4306836214791018,3,1,sl,WCE,Europe
 '7b389df850',extremes,Storm,#b3b2b1,wmo,nevihta slovenija,2026-08-07T11:06:00+00:00,Slovenia,0.4290503029918242,3,1,sl,WCE,Europe
+'ec13a83132',extremes,Heat Wave,#c40202,wmo,vročinski val südoststeiermark,2026-08-28T14:32:00+00:00,Austria,0.42831894991319724,1,1,sl,WCE,Europe
+'33db445b97',extremes,Heat Wave,#c40202,wmo,vročinski val klagenfurt stadt,2026-08-27T13:00:00+00:00,Austria,0.4280461164300363,1,1,sl,WCE,Europe
 '81a81c9801',extremes,Heat Wave,#c40202,wmo,vročinski val slovenija osrednja,2026-08-06T05:33:00+00:00,Slovenia,0.427741933223235,3,1,sl,WCE,Europe
+'979ec45109',extremes,Heat Wave,#c40202,wmo,vročinski val wien döbling,2026-08-27T13:00:00+00:00,Austria,0.42548482961721174,1,1,sl,WCE,Europe
 '5e7dd7bbc4',extremes,Precipitation,#d60d2b,wmo,padavine sora,2026-08-21T03:30:00+00:00,Slovenia,0.4245909426830745,2,1,sl,WCE,Europe
 '79ba421297',extremes,Storm,#b3b2b1,wmo,nevihta slovenija morje,2026-08-25T03:27:00+00:00,Slovenia,0.4194651701415793,2,1,sl,WCE,Europe
 'd7d26684ae',extremes,Heat Wave,#c40202,wmo,vročinski val slovenija jugozahod,2026-08-07T09:56:00+00:00,Slovenia,0.4122722139750764,3,1,sl,WCE,Europe
