@@ -1,8 +1,5 @@
 index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,ipcc,continent
 '948c5be429',extremes,Storm,#b3b2b1,wmo,nevihta slovenija severovzhod,2026-09-09T07:32:00+00:00,Slovenia,0.2610963394236189,5,1,sl,WCE,Europe
-'916a9f25de',extremes,Precipitation,#d60d2b,wmo,nalivi morje,2026-09-10T07:28:00+00:00,Slovenia,0.2570313114212972,5,1,sl,WCE,Europe
-'e0314db485',extremes,Precipitation,#d60d2b,wmo,plohe slovenija severovzhod,2026-09-09T07:32:00+00:00,Slovenia,0.2493049515333001,5,1,sl,WCE,Europe
-'c543ba600d',extremes,Precipitation,#d60d2b,wmo,padavine slovenija severozahod,2026-09-10T07:28:00+00:00,Slovenia,0.2483271187488984,5,1,sl,WCE,Europe
 'dd61a1a66f',extremes,Wildfire,#d60d2b,effis,požar v naravi primorsko notranjska slovenija,2026-09-07T07:29:00+00:00,Slovenia,0.2483154443237795,5,1,sl,WCE,Europe
 'f3c3da89c3',extremes,Wildfire,#d60d2b,effis,požar v naravi slovenija,2026-09-07T07:29:00+00:00,Slovenia,0.2426101999701028,7,1,sl,WCE,Europe
 '8dab881ae0',extremes,Precipitation,#d60d2b,wmo,naliv gradaščica,2026-09-09T07:32:00+00:00,Slovenia,0.2421135007333306,5,1,sl,WCE,Europe
@@ -16,10 +13,13 @@ index,module,topic,color,feed,term,created,country,ratio,counter,pages,language,
 'c1bee43b2b',extremes,Flood,#030ba1,wmo,poplavlja zgornja drava,2026-09-10T07:28:00+00:00,Slovenia,0.2208181597287185,7,1,sl,WCE,Europe
 '9b15413c64',extremes,Flood,#030ba1,wmo,poplava zgornje soče,2026-09-09T07:32:00+00:00,Slovenia,0.2207576778752728,7,1,sl,WCE,Europe
 'cb22de8098',extremes,Flood,#030ba1,wmo,flashflood kolpa,2026-09-09T07:32:00+00:00,Slovenia,0.2190675725547418,7,1,sl,WCE,Europe
+'916a9f25de',extremes,Precipitation,#d60d2b,wmo,nalivi morje,2026-09-10T07:28:00+00:00,Slovenia,0.21847661470810262,6,1,sl,WCE,Europe
 '4e0d6bf5f2',extremes,Flood,#030ba1,wmo,poplava savinja,2026-09-10T07:28:00+00:00,Slovenia,0.2169469937122904,7,1,sl,WCE,Europe
-'fe5f18e71d',extremes,Precipitation,#d60d2b,wmo,dež kras,2026-09-10T07:28:00+00:00,Slovenia,0.21625876077717615,6,1,sl,WCE,Europe
+'fe5f18e71d',extremes,Precipitation,#d60d2b,wmo,dež kras,2026-09-10T07:28:00+00:00,Slovenia,0.2162587607771761,6,1,sl,WCE,Europe
+'e0314db485',extremes,Precipitation,#d60d2b,wmo,plohe slovenija severovzhod,2026-09-09T07:32:00+00:00,Slovenia,0.21190920880330508,6,1,sl,WCE,Europe
 'd74d2cdee0',extremes,Precipitation,#d60d2b,wmo,nalivi slovenija severovzhod,2026-09-10T07:28:00+00:00,Slovenia,0.205013615404221,6,1,sl,WCE,Europe
 '226fd82a71',extremes,Precipitation,#d60d2b,wmo,dež sotla,2026-09-10T07:28:00+00:00,Slovenia,0.1967579863471637,7,1,sl,WCE,Europe
 'a8408923df',extremes,Flood,#030ba1,wmo,poplava slovenija,2026-09-09T07:32:00+00:00,Slovenia,0.1944011938963532,8,1,sl,WCE,Europe
 '2efc827093',extremes,Flood,#030ba1,wmo,hudourniška poplava slovenija,2026-09-10T07:28:00+00:00,Slovenia,0.1898355719134177,7,1,sl,WCE,Europe
 'b075e1b7ba',extremes,Flood,#030ba1,wmo,poplava kraška ljubljanica,2026-09-10T07:28:00+00:00,Slovenia,0.1876433532019868,8,1,sl,WCE,Europe
+'c543ba600d',extremes,Precipitation,#d60d2b,wmo,padavine slovenija severozahod,2026-09-10T07:28:00+00:00,Slovenia,0.17941634329607908,7,1,sl,WCE,Europe
